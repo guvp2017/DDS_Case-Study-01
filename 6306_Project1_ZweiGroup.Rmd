@@ -4,6 +4,7 @@ author: "Elisabet Zidow, Jonathan Franks, Shanqing Gu"
 date: "2/18/2018"
 output:
   html_document: default
+  keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
