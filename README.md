@@ -1,4 +1,4 @@
-## Doing Data Science Case Study 2
+## Doing Data Science Case Study 1
 
 #### Craft beers and culture in the United States
 
